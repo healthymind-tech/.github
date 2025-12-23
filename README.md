@@ -38,12 +38,6 @@ Selected public repositories:
 
 ---
 
-## 🔒 Private Projects
-
-This organization also hosts internal and product-oriented repositories that are not publicly available.
-
----
-
 ## 🤝 Contact
 
 🌐 https://www.healthymind-tech.com  
